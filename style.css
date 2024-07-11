@@ -1,0 +1,10 @@
+nav-item {
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.nav-item:hover {
+    background-color: darkgreen;
+}
